@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.ti{
+    text-align: center;
+    margin-top: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.formu{
+    /* width: 500px;
+max-width: 100%;
+margin: auto; */
+padding: 20px;
+text-align: justify;
+}
+.formu #total{
+    text-align:center;
+}
+.labeln,.labelnre{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+font-size: .5cm;
+}
+#piePagina{
+    padding: 5px;
+    background:rgb(29, 28, 28);
+    color:white;
+    text-align: center;
+    margin-top: 14%;
+  }
+  #lugari{
+      float:right;
+      height: 40%;
+      width: 40%;
+      
+  }
+  #tabla{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    font-size: .5cm;
+      text-align: left;
+      border-collapse: separate;
+      border-spacing: 50px 5px;
+  }
